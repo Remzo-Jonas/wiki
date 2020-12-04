@@ -37,7 +37,7 @@ Achte darauf den Port beim host mit anzugeben.
 Standard für MariaDB/MySQL: 3306
 {% endhint %}
 
-## Schritt 4: Server neustarten
+## Schritt 3: Server neustarten
 
 Jetzt könnt ihr euren Server neustarten
 
