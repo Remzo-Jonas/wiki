@@ -12,6 +12,16 @@
 * [Spigot-Addon](bungeesystem/spigot-addon.md)
 * [Common errors](bungeesystem/common-errors.md)
 
+## LobbySystem
+
+* [Getting started](lobbysystem/getting-started.md)
+* [Hotbar einstellen](lobbysystem/hotbar-einstellen.md)
+* [Teleporter einstellen](lobbysystem/teleporter-einstellen.md)
+
+## AdvancedTeamspeak
+
+* [Getting started](advancedteamspeak/getting-started.md)
+
 ---
 
 * [Support](support.md)
