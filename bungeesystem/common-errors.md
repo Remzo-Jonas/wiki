@@ -8,7 +8,7 @@ description: Hier findest du Fehler die oft auftreten & wie du sie behebst
 
 Stelle sicher, dass du alle schritte in [Getting started](getting-started.md) befolgt hast.  
 Sollte dies der Fall sein sichte deinen Log. Dort steht schon oft was der Fehler sein könnte.  
-Wenn du alle der folgenden Punkte überprüft hast, melde dich bitte im [Support](../support.md).
+Wenn du alle der folgenden Punkte überprüft hast, melde dich bitte im [Support](../other/support.md).
 
 * MySQL-Daten auf Richtigkeit überprüft
 * Lizenz überprüft

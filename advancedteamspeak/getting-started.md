@@ -8,7 +8,7 @@ description: Hier lernst du wie du AdvancedTeamspeak einrichtest
 
 Um zu verifizieren, dass du das Plugin wirklich erworben hast, musst du zunächst deine Lizenz in der settings.yml angeben.
 
-Solltest du keine Lizenz besitzen, melde dich per [Support](../support.md)
+Solltest du keine Lizenz besitzen, melde dich per [Support](../other/support.md)
 
 ```text
 license: '25efa038-3518-11eb-adc1-0242ac120002'
