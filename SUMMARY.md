@@ -5,7 +5,7 @@
 ## BungeeSystem
 
 * [Getting started](bungeesystem/getting-started.md)
-* [Configuration](bungeesystem/configuration.md)
+* [Konfiguration](bungeesystem/configuration.md)
 * [Ban Gründe ändern](bungeesystem/ban-gruende-aendern.md)
 * [Command de/aktivieren](bungeesystem/command-de-aktivieren.md)
 * [Messages bearbeiten](bungeesystem/messages-bearbeiten.md)

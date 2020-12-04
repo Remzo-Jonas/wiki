@@ -2,7 +2,7 @@
 description: 'Hier erfährst du, was die einzelnen Sachen in der settings.yml bedeuten'
 ---
 
-# Configuration
+# Konfiguration
 
 ## Einzelne Felder
 
