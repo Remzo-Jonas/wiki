@@ -10,6 +10,7 @@
 * [Command de/aktivieren](bungeesystem/command-de-aktivieren.md)
 * [Messages bearbeiten](bungeesystem/messages-bearbeiten.md)
 * [Spigot-Addon](bungeesystem/spigot-addon.md)
+* [Übliche Fehler](bungeesystem/uebliche-fehler.md)
 * [Common errors](bungeesystem/common-errors.md)
 
 ## LobbySystem
