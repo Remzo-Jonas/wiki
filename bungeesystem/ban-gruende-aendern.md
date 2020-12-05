@@ -22,7 +22,7 @@ Die `'1'` steht hier für den ban Grund, der auch oben in die Liste eingetragen 
 `Reason` stellt den Grund dar.  
 `Type` stellt den Typ der Bestrafung dar. Hier kann man nur `Ban`oder `Mute` angeben  
 `FirstBan` gibt die länge für den ersten Ban für einen Spieler mit diesem Grund an.  
-`int` gibt die Anzahl an, während `s` die Einzeig angibt. 
+`int` gibt die Anzahl an, während `s` die Einheit angibt. 
 
 | s | Einheit |
 | :--- | :--- |

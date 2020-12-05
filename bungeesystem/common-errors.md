@@ -23,6 +23,18 @@ Stell sicher, dass du die Datei nach dem Bearbeiten wieder hochgeladen hast.
 Wenn du eine Cloud nutzt musst du den temporären Server in das Template laden.  
 \(/cloud copy &lt;Server&gt; bzw. /cloud cp &lt;Server&gt;\)  
 
+## Permissions
+
+Funktioniert eine Permission nicht, stelle sicher, dass sie 100%ig richtig geschrieben ist.
+Bei einigen Permissionssystemen spielt die Groß- und Kleinschreibung eine Rolle. Versuche es
+mit einem großen B.  
+Beispiel: `Bungee.amute`
+
+{% hint style="warning" %}
+Für /ban:  
+Es wird zunächst `Bungee.ban` benötigt und dazu noch `Bungee.ban.<banid>`!
+{% endhint %}
+
 
 
 
