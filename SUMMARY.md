@@ -17,6 +17,7 @@
 * [Getting started](lobbysystem/getting-started.md)
 * [Hotbar einstellen](lobbysystem/hotbar-einstellen.md)
 * [Teleporter einstellen](lobbysystem/teleporter-einstellen.md)
+* [Konfiguration](lobbysystem/konfiguration.md)
 
 ## AdvancedTeamspeak
 

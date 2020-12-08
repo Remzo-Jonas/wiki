@@ -20,7 +20,7 @@ dbpw: password
 ```
 
 {% hint style="warning" %}
-Achte darauf, dass du den host ohne Port angibst
+Achte darauf, dass du den `host` ohne Port angibst
 {% endhint %}
 
 ## 

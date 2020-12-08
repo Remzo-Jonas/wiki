@@ -17,12 +17,12 @@ reasons:
 - ...
 ```
 
-Dadrunter siehst du die einzelnen Gründe.   
-Die `'1'` steht hier für den ban Grund, der auch oben in die Liste eingetragen werden muss.   
+Dadrunter siehst du die einzelnen Gründe.  
+Die `'1'` steht hier für den ban Grund, der auch oben in die Liste eingetragen werden muss.  
 `Reason` stellt den Grund dar.  
 `Type` stellt den Typ der Bestrafung dar. Hier kann man nur `Ban`oder `Mute` angeben  
 `FirstBan` gibt die länge für den ersten Ban für einen Spieler mit diesem Grund an.  
-`int` gibt die Anzahl an, während `s` die Einheit angibt. 
+`int` gibt die Anzahl an, während `s` die Einheit angibt.
 
 | s | Einheit |
 | :--- | :--- |
@@ -49,7 +49,7 @@ Reason:
 
 {% hint style="danger" %}
 Wenn du bei einem [`String`](https://de.wikipedia.org/wiki/Zeichenkette) eins der folgenden Zeichen angibst, musst du ein `'` vor und nach dem String angeben.  
- `: { } [ ] , & * # ? | - < > = ! % @ \ ä ö ü`
+`: { } [ ] , & * # ? | - < > = ! % @ \ ä ö ü`
 {% endhint %}
 
 ## Eignen ban Grund hinzufügen
