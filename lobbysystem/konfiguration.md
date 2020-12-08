@@ -1,5 +1,7 @@
 # Konfiguration
 
+## Beschreibung
+
 | Parameter | Beschreibung |
 | :--- | :--- |
 | license | Die erhaltene Lizenz. Siehe [_Gettings started_](getting-started.md)\_\_ |
@@ -14,12 +16,6 @@
 | lobby | Gibt Einstellungen für das Scoreboard an |
 
 
-
-{% hint style="warning" %}
-### Scoreboard
-
-Ein Eintrag darf nicht doppelt existieren! Wenn ihr mehrere leere Zeilen haben wollt, müsst ihr unterschiedliche Farbcodes angeben!
-{% endhint %}
 
 ```text
 license: lizenz
@@ -73,4 +69,14 @@ lobby:
         [...]
   silenthub: SilentHub
 ```
+
+## Hinweise
+
+{% hint style="warning" %}
+### Scoreboard
+
+Ein Eintrag darf nicht doppelt existieren! Wenn ihr mehrere leere Zeilen haben wollt, müsst ihr unterschiedliche Farbcodes angeben!
+{% endhint %}
+
+
 
