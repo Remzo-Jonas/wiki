@@ -11,6 +11,7 @@
 * [Messages bearbeiten](bungeesystem/messages-bearbeiten.md)
 * [Spigot-Addon](bungeesystem/spigot-addon.md)
 * [Common errors](bungeesystem/common-errors.md)
+* [Permissions](bungeesystem/permissions.md)
 
 ## LobbySystem
 
