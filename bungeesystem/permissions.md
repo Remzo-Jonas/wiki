@@ -14,10 +14,11 @@ description: Erhälst du eine Übersicht über alle Permissions
 /editban - bungee.editban  
 /kick - bungee.kick  
 /setipban - bungee.setipban  
-/banlist - bungee.banlist
+/banlist - bungee.banlist  
+
 
 {% hint style="warning" %}
-Um /ban zu benutzen benötigt man `bungee.ban` und `bungee.ban.[ID]` bzw. `bungee.ban.*`
+Um /ban zu benutzen benoetigt man `bungee.ban` und `bungee.ban.[ID]` bzw. `bungee.ban.*`
 {% endhint %}
 
 ## Verwarnung
