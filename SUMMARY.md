@@ -23,6 +23,10 @@
 
 * [Getting started](advancedteamspeak/getting-started.md)
 
+## MLGRush
+
+* [Getting started](mlgrush/getting-started.md)
+
 ## Anderes <a id="other"></a>
 
 * [Support](other/support.md)

@@ -4,7 +4,7 @@
 
 ## Schritt 1: Lizenz
 
-Um zu verifizieren, dass du das Plugin wirklich erworben hast, musst du zunächst deine Lizenz in der settings.yml angeben.
+Um zu verifizieren, dass du das Plugin wirklich erworben hast, musst du zunächst deine Lizenz in der config.yml angeben.
 
 Solltest du keine Lizenz besitzen, melde dich per [Support](../other/support.md)
 
