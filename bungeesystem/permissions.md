@@ -33,7 +33,8 @@ Um /ban zu benutzen benoetigt man `bungee.ban` und `bungee.ban.[ID]` bzw. `bunge
 /getip - bungee.getip  
 /history - bungee.history  
 /history clear - bungee.history.clear  
-/whereis - bungee.whereis
+/whereis - bungee.whereis  
+/statistics - bungee.statistics
 
 ## Chat
 
