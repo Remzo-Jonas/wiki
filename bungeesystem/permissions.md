@@ -74,3 +74,8 @@ Wartungsmodus bypass - bungee.wartung.ignore
 /fakeplayers - bungee.fakeplayers  
 Slotsbypass - bungee.premiumjoin
 
+## Webinterface
+
+/webaccount - bungee.webaccount  
+/webaccount setadmin - bungee.webaccounte.setadmin
+

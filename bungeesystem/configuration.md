@@ -179,6 +179,27 @@ description: 'Hier erfährst du, was die einzelnen Sachen in der settings.yml be
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left"><b>webpannel</b>
+      </td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">link</td>
+      <td style="text-align:left">Der Link zu deinem Webpannel</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">isForUsers</td>
+      <td style="text-align:left">
+        <p>Wenn true: Keine Permission f&#xFC;r /webaccount notwendig</p>
+        <p>Wenn false: Eine <a href="permissions.md"><em>Permission</em></a> f&#xFC;r
+          /webaccount notwendig</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">Slots</td>
       <td style="text-align:left">Maximale Anzahl an Spielern auf dem Netzwerk</td>
     </tr>
