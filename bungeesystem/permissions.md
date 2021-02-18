@@ -62,10 +62,10 @@ Repeatmessage bypass - bungee.repeatmessage.ignore
 Wartungsmodus bypass - bungee.wartung.ignore  
 /end - bungee.end
 
-## Anderes
+## Report
 
 /reportsGUI - bungee.reportsgui  
-
+/reports - bungee.reports
 
 ## Serverliste
 
