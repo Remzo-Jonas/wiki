@@ -79,8 +79,3 @@ Slotsbypass - bungee.premiumjoin
 /webaccount - bungee.webaccount  
 /webaccount setadmin - bungee.webaccounte.setadmin
 
-## ChatClear
-
-/cc - bungee.cc
-ChatClearBypass - bungee.cc.ignore
-
