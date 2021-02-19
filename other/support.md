@@ -7,7 +7,7 @@
 
 ## Supportzeiten
 
-Mo-Sa: 10 - 22 Uhr
+Mo-Sa: 10 - 22 Uhr <br>
 So: 11-18 Uhr
 
 {% hint style="warning" %}
