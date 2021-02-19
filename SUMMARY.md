@@ -25,7 +25,7 @@
 ## AdvancedTeamspeak
 
 * [Getting started](advancedteamspeak/getting-started.md)
-* * [Permissions](advancedteamspeak/permissions.md)
+* [Permissions](advancedteamspeak/permissions.md)
 
 ## MLGRush
 
