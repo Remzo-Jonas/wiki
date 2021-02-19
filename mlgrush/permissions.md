@@ -11,7 +11,7 @@ description: Erhälst du eine Übersicht über alle Permissions
 /setqueue - mlgrush.setqueue
 
 ## Setup Command
-/setup - mlgrush.setup <br>
+/setup - mlgrush.setup<br>
 /setstatswall - mlgrush.setup
 
 ## Spec Command
