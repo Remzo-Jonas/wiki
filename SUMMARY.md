@@ -25,10 +25,12 @@
 ## AdvancedTeamspeak
 
 * [Getting started](advancedteamspeak/getting-started.md)
+* * [Permissions](advancedteamspeak/permissions.md)
 
 ## MLGRush
 
 * [Getting started](mlgrush/getting-started.md)
+* [Permissions](mlgrush/permissions.md)
 
 ## Anderes <a id="other"></a>
 
