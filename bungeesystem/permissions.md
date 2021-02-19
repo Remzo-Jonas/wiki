@@ -24,8 +24,8 @@ Um /ban zu benutzen benoetigt man `bungee.ban` und `bungee.ban.[ID]` bzw. `bunge
 ## Verwarnung
 
 /warn - bungee.warn  
-/warns - bungee.warns  
-/warns &lt;spieler&gt; clear - bungee.warns.clera
+/warns - Bungee.warns  
+/warns &lt;spieler&gt; clear - bungee.warns.clear
 
 ## Informationen
 
