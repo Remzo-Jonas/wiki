@@ -7,8 +7,7 @@
 
 ## Supportzeiten
 
-Mo-Sa: 10 - 22 Uhr<br>
-So: 11-18 Uhr
+Mo-Sa: 10 - 22 Uhr<br>So: 11-18 Uhr
 
 {% hint style="warning" %}
 Nur weil eine Anrage innerhalb der Supportzeiten ist, heißt es nicht, dass man direkt eine Antwort erhaltet
