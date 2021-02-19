@@ -15,7 +15,7 @@ description: Erhälst du eine Übersicht über alle Permissions
 /kick - bungee.kick  
 /setipban - bungee.setipban  
 /banlist - bungee.banlist  
-
+Ban bypass - bungee.admin
 
 {% hint style="warning" %}
 Um /ban zu benutzen benoetigt man `bungee.ban` und `bungee.ban.[ID]` bzw. `bungee.ban.*`
