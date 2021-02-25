@@ -1,5 +1,5 @@
 ---
-description: Erhälst du eine Übersicht über alle Placeholder
+description: Hier erhälst du eine Übersicht über alle Placeholder
 ---
 
 # Placeholder
