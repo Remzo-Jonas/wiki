@@ -18,6 +18,10 @@ license: '25efa038-3518-11eb-adc1-0242ac120002'
 Sollte es Probleme geben setze ein `'` vor und nach deine Lizenz
 {% endhint %}
 
+{% hint style="warnung" %}
+Achtung : Achte drauf, dass du es auf jeden Spigot Server installierst, wo du das Plugin nutzen möchtest.
+{% endhint %}
+
 ## Schritt 2: MySQL-Zugangsdaten
 
 Nachdem du AdvancedTeamspeak auf deinem Spigot-Server installiert hast, musst du deine MySQL Daten in die config.yml eintragen.
