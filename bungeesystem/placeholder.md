@@ -9,7 +9,7 @@ description: Erhälst du eine Übersicht über alle Placeholder
 
 ## PlaceholerAPI
   %BungeeSystem_ontime% – <b>Zeige die Spielzeit des Spielers<br> %BungeeSystem_coins% – <b>Zeige die Coins des Spielers<br> %BungeeSystem_friends% – <b>Zeige die Anzahl der Freunde<br>
-  
+{% hint style="warning" %} 
 Achte dadrauf, dass auf dem Server die Spigot Version von BungeeSystem installiert sein!
 {% endhint %}
 
