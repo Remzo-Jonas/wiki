@@ -33,6 +33,10 @@
 * [Getting started](mlgrush/getting-started.md)
 * [Permissions](mlgrush/permissions.md)
 
+## ClanSystem
+
+* [Getting started](clansystem/getting-started.md)
+
 ## Anderes <a id="other"></a>
 
 * [Support](other/support.md)
