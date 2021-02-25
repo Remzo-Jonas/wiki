@@ -13,6 +13,7 @@
 * [Common errors](bungeesystem/common-errors.md)
 * [Permissions](bungeesystem/permissions.md)
 * [Webinterface](bungeesystem/webinterface.md)
+* [Placeholder](bungeesystem/placeholder.md)
 
 ## LobbySystem
 
