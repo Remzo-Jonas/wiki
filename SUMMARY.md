@@ -36,6 +36,7 @@
 ## ClanSystem
 
 * [Getting started](clansystem/getting-started.md)
+* [Getting started](clansystem/placeholder.md)
 
 ## Anderes <a id="other"></a>
 
