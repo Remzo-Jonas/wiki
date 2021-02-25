@@ -1,5 +1,5 @@
 ---
-description: Erhälst du eine Übersicht über alle Permissions
+description: Hier erhälst du eine Übersicht über alle Permissions
 ---
 
 # Permissions
