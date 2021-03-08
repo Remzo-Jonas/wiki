@@ -19,3 +19,10 @@ description: Erhälst du eine Übersicht über alle Permissions
 ## Stats Command
 /stats reset - mlgrush.stats.reset
 
+## Stick Permissions
+
+mlgrush.perks.stick.bone
+mlgrush.perks.stick.blazerod
+mlgrush.perks.stick.feather
+mlgrush.perks.stick.arrow
+
