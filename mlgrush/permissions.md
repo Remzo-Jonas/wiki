@@ -21,8 +21,5 @@ description: Erhälst du eine Übersicht über alle Permissions
 
 ## Stick Permissions
 
-mlgrush.perks.stick.bone
-mlgrush.perks.stick.blazerod
-mlgrush.perks.stick.feather
-mlgrush.perks.stick.arrow
+mlgrush.perks.stick.bone<br>mlgrush.perks.stick.blazerod<br>mlgrush.perks.stick.feather<br>mlgrush.perks.stick.arrow
 
