@@ -43,19 +43,17 @@ Standard für MariaDB/MySQL: 3306
 
 Damit sich der Bot auf deinen Server einloggen kann, musst du einen Query Zugang hinzufügen:
 
-#### Zugang erstellen
+### Zugang erstellen
 
 Erstelle dir zunächst eine neue Identität:  
-Extras &gt; Identitäten &gt; Erstellen  
-  
+Extras &gt; Identitäten &gt; Erstellen
 
 ![Fenster zum erstellen einer neuen Indentit&#xE4;t](../.gitbook/assets/h6f5vkv.png)
 
 Danach musst du dich mit dieser Identität auf deinen Server verbinden.  
 Dann erstellst du dir einen Query Zugang:  
 Extras &gt; ServerQuery Login  
-Dort gibst du einen Namne an, und klickst auf `OK`  
-  
+Dort gibst du einen Namne an, und klickst auf `OK`
 
 ![Fenster mit den Zugangsdaten](../.gitbook/assets/r2lnkvp.png)
 

@@ -6,7 +6,7 @@ description: Hier erhälst du eine Übersicht über alle Permissions
 
 ## Sanktionen
 
-/ban - bungee.ban, bungee.ban.\[ID\]  
+/ban - Bungee.ban, Bungee.ban.\[ID\]  
 /aban - bungee.aban  
 /amute - bungee.amute  
 /unban - bungee.unban  
@@ -19,6 +19,12 @@ Ban bypass - bungee.admin
 
 {% hint style="warning" %}
 Um /ban zu benutzen benoetigt man `bungee.ban` und `bungee.ban.[ID]` bzw. `bungee.ban.*`
+{% endhint %}
+
+## Besonderheiten
+
+{% hint style="danger" %}
+Einige Permissions-System \(bspw. cperms \(Cloudnet v2\)\) benötigen die genaue Groß- und Kleinschreibung. Achtet also bspw. bei Bungee.ban darauf!
 {% endhint %}
 
 ## Verwarnung

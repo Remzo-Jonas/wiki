@@ -9,14 +9,14 @@ description: Erhälst du eine Übersicht über alle Permissions
 /ts3channel - advancedts.ts3channel
 
 ## Permanenter Channel
- /- advancedts.create.permanent
+
+/- advancedts.create.permanent
 
 ## Semi-Permanenter Channel
- /- advancedts.create.semipermanent
+
+/- advancedts.create.semipermanent
 
 ## Temporärer Channel
- /- advancedts.create.temporary
 
-
-
+/- advancedts.create.temporary
 
