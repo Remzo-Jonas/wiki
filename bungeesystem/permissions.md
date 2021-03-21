@@ -6,7 +6,7 @@ description: Hier erhälst du eine Übersicht über alle Permissions
 
 ## Sanktionen
 
-/ban - Bungee.ban, Bungee.ban.\[ID\]<br>/aban - bungee.aban<br>/amute - bungee.amute<br>/unban - bungee.unban<br>/unmute - bungee.unmute<br>/editban - bungee.editban<br>/kick - bungee.kick<br>/setipban - bungee.setipban<br>Ban bypass - bungee.admin<br>/banlist - ban.banlist
+/ban - Bungee.ban, Bungee.ban.\[ID\]<br>/aban - bungee.aban<br>/amute - bungee.amute<br>/unban - bungee.unban<br>/unmute - bungee.unmute<br>/editban - bungee.editban<br>/kick - bungee.kick<br>/setipban - bungee.setipban<br>/banlist - ban.banlist<br>Ban bypass - bungee.admin
 
 {% hint style="warning" %}
 Um /ban zu benutzen benoetigt man `bungee.ban` und `bungee.ban.[ID]` bzw. `bungee.ban.*`
