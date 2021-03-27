@@ -7,8 +7,7 @@ description: Hier erhälst du eine Übersicht über die Permissions
 ## Commands
 
 /build - lobby.build  
-/setup - lobby.admin
-/vanish - lobby.vanish
+/setup - lobby.admin<br>/vanish - lobby.vanish
 
 ## Inventory-Items
 
