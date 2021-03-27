@@ -7,9 +7,7 @@ description: Hier erhälst du eine Übersicht über die Permissions
 ## Commands
 
 /build - lobby.build  
-/setlocation - lobby.setlocation  
-/setrewards - lobby.setrewards  
-/setspawn - lobby.setspawn  
+/setup - lobby.admin
 /vanish - lobby.vanish
 
 ## Inventory-Items
