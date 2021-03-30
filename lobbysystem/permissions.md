@@ -7,7 +7,8 @@ description: Hier erhälst du eine Übersicht über die Permissions
 ## Commands
 
 /build - lobby.build  
-/setup - lobby.admin<br>/vanish - lobby.vanish
+/setup - lobby.admin  
+/vanish - lobby.vanish
 
 ## Inventory-Items
 
@@ -31,7 +32,7 @@ lobby.extra.boots.blue
 lobby.extra.boots.orange  
 lobby.extra.boots.gray
 
-### Gadgets 
+### Gadgets
 
 lobby.extra.gadgets.fishingrod  
 lobby.extra.gadgets.feather  
@@ -39,11 +40,11 @@ lobby.extra.gadgets.enderpearl
 
 ### Heads
 
-lobby.extra.heads.leather   
-lobby.extra.heads.iron   
-lobby.extra.heads.chain   
-lobby.extra.heads.gold   
-lobby.extra.heads.diamond   
+lobby.extra.heads.leather  
+lobby.extra.heads.iron  
+lobby.extra.heads.chain  
+lobby.extra.heads.gold  
+lobby.extra.heads.diamond  
 lobby.extra.heads.glass
 
 ### Skulls
@@ -52,6 +53,4 @@ lobby.extra.skull.1
 lobby.extra.skull.2  
 lobby.extra.skull.3  
 ...
-
-
 
