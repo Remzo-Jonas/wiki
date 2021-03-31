@@ -43,6 +43,10 @@ Einige Permissions-System \(bspw. cperms \(Cloudnet v2\)\) benötigen die genaue
 /whereis - bungee.whereis  
 /statistics - bungee.statistics
 
+## JoinMe
+
+/joinme - bungee.joinme
+
 ## Chat
 
 /chatmute - bungee.chatmute  
