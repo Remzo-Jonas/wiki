@@ -15,7 +15,7 @@ description: Hier erhälst du eine Übersicht über alle Permissions
 /kick - bungee.kick  
 /setipban - bungee.setipban  
 /banlist - ban.banlist  
-Ban bypass - bungee.admin  
+Ban bypass - bungee.admin    
 
 
 {% hint style="warning" %}
