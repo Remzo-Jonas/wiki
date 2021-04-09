@@ -48,12 +48,12 @@ CloudNet3: `/cloud copy <ServerName>`
 {% endhint %}
 
 {% hint style="warning" %}
-Danach musst du den Spawn mit `/setspawn` setzten und noch einmal neujoinen
+Danach musst du den Spawn mit `/setup setSpawn` setzten und noch einmal neujoinen
 {% endhint %}
 
 ## Schritt 4: Spawn setzten
 
-Begib dich auf deine gewünschte Position für den Spawn und gebe `/setspawn` ein.
+Begib dich auf deine gewünschte Position für den Spawn und gebe `/setup setSpawn` ein.
 
 {% hint style="info" %}
 Speichere danach dein Template wieder ab. Siehe [_Schritt 3_](getting-started.md#schritt-3-server-neustarten)\_\_
