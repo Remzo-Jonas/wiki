@@ -21,6 +21,7 @@ Shild - lobby.schield
 ## Funktionen
 
 Doppelsprung - lobby.doublejump
+Team Sichtbarkeit - lobby.team
 
 ## Extras
 
