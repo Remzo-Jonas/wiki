@@ -1,7 +1,5 @@
 # Getting started
 
-
-
 ## Schritt 1: Lizenz
 
 Um zu verifizieren, dass du das Plugin wirklich erworben hast, musst du zunächst deine Lizenz in der config.yml angeben.

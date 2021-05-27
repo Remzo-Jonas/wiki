@@ -20,8 +20,7 @@ Shild - lobby.schield
 
 ## Funktionen
 
-Doppelsprung - lobby.doublejump
-Team Sichtbarkeit - lobby.team
+Doppelsprung - lobby.doublejump Team Sichtbarkeit - lobby.team
 
 ## Extras
 
@@ -56,16 +55,19 @@ lobby.extra.skull.3
 ...
 
 ### Partikel
+
 lobby.extra.particle.snow  
 lobby.extra.particle.music  
 lobby.extra.particle.crits  
 lobby.extra.particle.enchantment  
 lobby.extra.particle.villager  
-lobby.extra.particle.love    
+lobby.extra.particle.love
 
 ### Regen Effekte
+
 lobby.extra.rains.dias  
 lobby.extra.rains.iron  
 lobby.extra.rains.gold  
 lobby.extra.rains.emerald  
-lobby.extra.rains.goldnugget  
+lobby.extra.rains.goldnugget
+
