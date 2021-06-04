@@ -14,6 +14,7 @@
 ## BungeeSystem
 
 * [Loslegen](bungeesystem/loslegen.md)
+* [Discord Bot](bungeesystem/discord-bot.md)
 
 ## Anderes <a id="other"></a>
 
