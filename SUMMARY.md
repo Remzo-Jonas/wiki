@@ -15,6 +15,7 @@
 
 * [Loslegen](bungeesystem/loslegen.md)
 * [Discord Bot](bungeesystem/discord-bot.md)
+* [Teamspeak-Bot](bungeesystem/teamspeak-bot.md)
 
 ## Anderes <a id="other"></a>
 
