@@ -27,3 +27,10 @@
 * [Getting started](advancedteamspeak/getting-started.md)
 * [Permissions](advancedteamspeak/permissions.md)
 
+## PermissionsSystem
+
+* [Loslegen](permissionssystem/loslegen.md)
+* [Gruppen einstellen](permissionssystem/groups.md)
+* [Spieler einstellen](permissionssystem/users.md)
+* [Permissions](permissionssystem/permissions.md)
+
