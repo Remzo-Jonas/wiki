@@ -17,6 +17,13 @@
 * [Discord Bot](bungeesystem/discord-bot.md)
 * [Teamspeak-Bot](bungeesystem/teamspeak-bot.md)
 
+## PermissionsSystem
+
+* [Loslegen](permissionssystem/loslegen.md)
+* [Gruppen einstellen](permissionssystem/groups.md)
+* [Spieler einstellen](permissionssystem/users.md)
+* [Permissions](permissionssystem/permissions.md)
+
 ## Anderes <a id="other"></a>
 
 * [Support](other/support.md)
@@ -26,11 +33,4 @@
 
 * [Getting started](advancedteamspeak/getting-started.md)
 * [Permissions](advancedteamspeak/permissions.md)
-
-## PermissionsSystem
-
-* [Loslegen](permissionssystem/loslegen.md)
-* [Gruppen einstellen](permissionssystem/groups.md)
-* [Spieler einstellen](permissionssystem/users.md)
-* [Permissions](permissionssystem/permissions.md)
 

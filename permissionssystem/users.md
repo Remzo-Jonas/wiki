@@ -1,12 +1,12 @@
 ---
-description: >-
-Auf dieser Seite lernst du alles über die Einstellung von Nutzer
-Berechtigungen.
+description: Auf dieser Seite lernst du alles über die Einstellung von Nutzer Berechtigung
 ---
 
-# Nutzer Rechte vergeben
+# Spieler einstellen
 
-### Gruppen vergeben:
+## Nutzer Rechte vergeben
+
+#### Gruppen vergeben:
 
 Das wohl wichtigste ist die Vergabe von Gruppen an Nutzer, wir werden in diesem Beispiel die Admin Gruppe an mich vergeben.
 
@@ -20,7 +20,7 @@ Mit der Zahl am Ende gebe ich dir Stärke an, sollten also zwei Personen die sel
 Nach der Stärke kann auch optional noch eine Zeitangabe machen, um damit die Dauer des Ranges zu begrenzen. Damit kann z.B. ein Premium Rang für nur zwei Wochen vergeben werden.
 {% endhint %}
 
-### Benutzerdefinierte Berechtigungen:
+#### Benutzerdefinierte Berechtigungen:
 
 Ihr könnt auch Nutzern unabhängig von ihren Gruppen gewisse Berechtigungen geben.
 
@@ -29,3 +29,4 @@ Ihr könnt auch Nutzern unabhängig von ihren Gruppen gewisse Berechtigungen geb
 ```
 
 Damit kann man sich als Inhaber unabhängig von seinen Gruppen, alle Berechtigungen geben.
+

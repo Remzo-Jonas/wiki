@@ -14,7 +14,7 @@ description: >-
 
 Begib dich auf und erstelle eine Applikation
 
-![Erstellen einer neuen Applikation](../.gitbook/assets/r2ikovq.png)
+![Erstellen einer neuen Applikation](../.gitbook/assets/r2ikovq%20%282%29.png)
 
 #### Schritt 2: Name vergeben
 
@@ -22,7 +22,7 @@ Begib dich auf und erstelle eine Applikation
 
 #### Schritt 3: Bot erstellen
 
-![Der Applikation einen Bot hinzuf&#xFC;gen](../.gitbook/assets/vs8orlo%20%281%29.png)
+![Der Applikation einen Bot hinzuf&#xFC;gen](../.gitbook/assets/vs8orlo%20%281%29%20%281%29.png)
 
 #### Schritt 4: Bot-Token kopieren
 
@@ -64,7 +64,7 @@ Unter connection findest du verschiedene Einstellmölichkeiten.
 **activity.value** - Die aktivität die angezeigt wird nach dem Typ. Bspw. \[Spiel\] verifizieren  
 **guild** - Guild steht hier für deinen Discord-Server. Hier musst du die ID deiner Guilde angeben. Diese erhälst du indem du Rechtsklick auf dein Server-Icon machst, und dort die ID kopierst
 
-![](../.gitbook/assets/cbnttim.png)
+![](../.gitbook/assets/cbnttim%20%281%29.png)
 
 ### Verifikation
 

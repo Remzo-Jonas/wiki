@@ -1,10 +1,12 @@
 ---
 description: >-
-Auf dieser Seite findest du alle Befehle und die dafür notwendigen
-Berechtigungen.
+  Auf dieser Seite findest du alle Befehle und die dafür notwendigen
+  Berechtigungen
 ---
 
-# Berechtigungen
+# Permissions
+
+## Berechtigungen
 
 | Befehl | Notwendige Berechtigung |
 | :--- | :--- |
@@ -22,3 +24,4 @@ Berechtigungen.
 | /perms user &lt;Spieler Name&gt; info | primeperms.user.info |
 | /perms user &lt;Spieler Name&gt; group add/remove &lt;Gruppenname&gt; &lt;Stärke&gt; &lt;Dauer&gt; | primepermissions.user.group |
 | /perms user &lt;Spieler Name&gt; permission add/remove &lt;Berechtigung&gt; | primeperms.user.permission |
+
