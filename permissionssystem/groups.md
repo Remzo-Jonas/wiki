@@ -70,3 +70,8 @@ Umso mehr Gruppen man hat, umso wichtiger wird die Vererbung, damit erbt eine Gr
 
 In diesem Beispiel habe ich mir nun eine Inhaber Gruppe erstellt, die alle Berechtigungen der Admin Gruppe erbt. Sollte die Admin Gruppe bereits die Berechtigungen einer anderen Gruppe erben, erbt die Inhaber Gruppe diese nun auch.
 
+{% hint style="success" %}
+**Interessant**  
+Wenn du keine Vererbung angibst, werden immer die Berechtigungen der default Gruppe vererbt!
+{% endhint %}
+
