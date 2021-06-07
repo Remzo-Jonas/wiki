@@ -5,6 +5,10 @@
 * [Discord \(empfohlen\)](https://discord.primeapi.de)
 * [E-Mail \(support@primeapi.de\)](mailto://support@primeapi.de)
 
+{% embed url="https://discord.primeapi.de" %}
+
+
+
 ## Supportzeiten
 
 Mo-Sa: 10 - 22 Uhr  

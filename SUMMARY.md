@@ -11,6 +11,11 @@
 * [Warum eine API?](core-api/warum-eine-api.md)
 * [Loslegen](core-api/loslegen.md)
 
+## Webinterface
+
+* [Loslegen](webinterface/loslegen.md)
+* [bote100](webinterface/bote100.md)
+
 ## BungeeSystem
 
 * [Loslegen](bungeesystem/loslegen.md)
@@ -28,9 +33,4 @@
 
 * [Support](other/support.md)
 * [Discord Server](https://discord.primeapi.de)
-
-## AdvancedTeamspeak
-
-* [Getting started](advancedteamspeak/getting-started.md)
-* [Permissions](advancedteamspeak/permissions.md)
 
