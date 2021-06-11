@@ -17,7 +17,7 @@ description: Hier findest du alle Permissions im BungeeSystem
 | /kick &lt;Spieler&gt; &lt;Grund...&gt; | bungee.kick |
 | /history &lt;Spieler&gt; | bungee.history |
 | /check &lt;Spieler&gt; | bungee.check |
-| /warn &lt;Spieler&gt; &lt;Grund...&gt;| bungee.warn |
+| /warn &lt;Spieler&gt; |  &lt;Grund...&gt;| bungee.warn |
 
 ## Spieler
 
@@ -34,5 +34,16 @@ description: Hier findest du alle Permissions im BungeeSystem
 | /tssupport &lt;open/close&gt; | bungee.tssupport |
 | /team | bungee.team |
 | /teamchat &lt;Nachricht&gt; | bungee.tc |
-
+| /slots &lt;Slots&gt; | bungee.slolts |
+| /reports | bungee.reports |
+| /notify &lt;login/logout&gt; | bungee.notify | 
+| /motd &lt;wartung/normal&gt; &lt;motd&gt;  | bungee.motd |
+| /jumpto &lt;Spieler&gt; | bungee.jumpto |
+| /jointo &lt;Spieler&gt; | bungee.jointo |
+| /getip &lt;Spieler&gt; | bungee.getip |
+| /end &lt;now/abort/zeit&gt; | bungee.end |
+| /clearchat &lt;local/global&gt; | bungee.clearchat |
+| /brodcast &lt;Nachricht...&gt; | bungee.brodcast |
+| /bauserver | bungee.bauserver |
+| /adminchat &lt;Nachricht...&gt; | bungee.atc |
 
