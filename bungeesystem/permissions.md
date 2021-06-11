@@ -46,4 +46,5 @@ description: Hier findest du alle Permissions im BungeeSystem
 | /brodcast &lt;Nachricht...&gt; | bungee.brodcast |
 | /bauserver | bungee.bauserver |
 | /adminchat &lt;Nachricht...&gt; | bungee.atc |
+| Wartungen ignorieren | bungee.wartung.ignore |
 
