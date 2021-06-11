@@ -21,6 +21,7 @@
 * [Loslegen](bungeesystem/loslegen.md)
 * [Discord Bot](bungeesystem/discord-bot.md)
 * [Teamspeak-Bot](bungeesystem/teamspeak-bot.md)
+* [Permissions](bungeesystem/permissions.md)
 
 ## PermissionsSystem
 
