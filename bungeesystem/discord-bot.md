@@ -14,7 +14,7 @@ description: >-
 
 Begib dich auf und erstelle eine Applikation
 
-![Erstellen einer neuen Applikation](../.gitbook/assets/r2ikovq%20%282%29.png)
+![Erstellen einer neuen Applikation](../.gitbook/assets/r2ikovq%20%282%29%20%282%29.png)
 
 #### Schritt 2: Name vergeben
 
@@ -64,7 +64,7 @@ Unter connection findest du verschiedene Einstellmölichkeiten.
 **activity.value** - Die aktivität die angezeigt wird nach dem Typ. Bspw. \[Spiel\] verifizieren  
 **guild** - Guild steht hier für deinen Discord-Server. Hier musst du die ID deiner Guilde angeben. Diese erhälst du indem du Rechtsklick auf dein Server-Icon machst, und dort die ID kopierst
 
-![](../.gitbook/assets/cbnttim%20%281%29.png)
+![](../.gitbook/assets/cbnttim%20%281%29%20%281%29.png)
 
 ### Verifikation
 

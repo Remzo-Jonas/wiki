@@ -4,7 +4,7 @@ description: 'Hier erhälst du alle Informationen, die du brauchst!'
 
 # Wiki
 
-Wenn du hier deine Antowort auf dein Problem nicht findest, zögere nicht, auf meinem [Discord](https://discord.primeapi.de) ein Ticket zu eröffnen!
+Wenn du hier deine Antwort auf dein Problem nicht findest, zögere nicht, auf meinem [Discord](https://discord.primeapi.de) ein Ticket zu eröffnen!
 
 {% hint style="danger" %}
 #### Diese Seite beschäftigt sich mit den Recodes der Plugins
