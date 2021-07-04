@@ -4,6 +4,10 @@ description: 'Hier erfährst du, wie du das BungeeSystem einrichtest'
 
 # Loslegen
 
+{% embed url="https://www.youtube.com/watch?v=cVVJ5oIDoU4" caption="Erklärvideo" %}
+
+
+
 ## Vorbereitung
 
 Damit du das Plugin benutzen kannst, musst du die BungeeAPI installiet haben! Wie du das machst erfährst du [_hier_](../core-api/loslegen.md) __!
