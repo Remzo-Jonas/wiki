@@ -10,6 +10,7 @@
 
 * [Warum eine API?](core-api/warum-eine-api.md)
 * [Loslegen](core-api/loslegen.md)
+* [Placeholder \(Core\)](core-api/placeholder-core.md)
 
 ## Webinterface
 
