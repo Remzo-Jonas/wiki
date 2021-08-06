@@ -25,6 +25,6 @@ description: >-
 
 ## Cloud \(Nur mit CloudNet v2 und v3\)
 
-`%cloudgrouponline_`_`[GROUPNAME]`_`%` - Anzahl der Spieler auf einer Servergruppe/Task  
-`%cloudserveronline_`_`[SERVERNAME]`_`%` - Anzahl der Spieler auf einem Server
+`%cloudgrouponline_[GROUPNAME]%` - Anzahl der Spieler auf einer Servergruppe/Task  
+`%cloudserveronline_[SERVERNAME]%` - Anzahl der Spieler auf einem Server
 
