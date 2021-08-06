@@ -30,6 +30,7 @@
 * [Gruppen einstellen](permissionssystem/groups.md)
 * [Spieler einstellen](permissionssystem/users.md)
 * [Permissions](permissionssystem/permissions.md)
+* [Placeholder \(Permissions\)](permissionssystem/placeholder-permissions.md)
 
 ## Anderes <a id="other"></a>
 
