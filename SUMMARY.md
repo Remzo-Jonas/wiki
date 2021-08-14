@@ -5,6 +5,7 @@
 ## Generelles
 
 * [Lizenzen](generelles/lizenzen.md)
+* [Infomationen](generelles/infomationen.md)
 
 ## Core-API
 
