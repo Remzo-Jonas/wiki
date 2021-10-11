@@ -8,20 +8,19 @@ description: >-
 
 ## Berechtigungen
 
-| Befehl | Notwendige Berechtigung |
-| :--- | :--- |
-| /perms setadmin &lt;Spieler Name&gt; | primeperms.user.permission |
-| /perms create &lt;Gruppen Name&gt; &lt;Anzeigename&gt; | primeperms.create |
-| /perms list | primeperms.list |
-| /perms group &lt;Gruppen Name&gt; info | primeperms.group.info |
-| /perms group &lt;Gruppen Name&gt; permission add/remove | primeperms.group.permission |
-| /perms group &lt;Gruppen Name&gt; setcolor &lt;Farbcode&gt; | primeperms.group.setcolor |
-| /perms group &lt;Gruppen Name&gt; setdisplay &lt;Anzeigename&gt; | primeperms.group.setdisplay |
-| /perms group &lt;Gruppen Name&gt; setinherit &lt;Gruppen Name&gt; | primeperms.group.setinherit |
-| /perms group &lt;Gruppen Name&gt; setprefix &lt;Präfix&gt; | primeperms.group.setprefix |
-| /perms group &lt;Gruppen Name&gt; setsuffix &lt;Suffix&gt; | primeperms.group.setsuffix |
-| /perms group &lt;Gruppen Name&gt; setweight &lt;Gewicht&gt; | primeperms.group.setweight |
-| /perms user &lt;Spieler Name&gt; info | primeperms.user.info |
-| /perms user &lt;Spieler Name&gt; group add/remove &lt;Gruppenname&gt; &lt;Stärke&gt; &lt;Dauer&gt; | primepermissions.user.group |
-| /perms user &lt;Spieler Name&gt; permission add/remove &lt;Berechtigung&gt; | primeperms.user.permission |
-
+| Befehl                                                                         | Notwendige Berechtigung     |
+| ------------------------------------------------------------------------------ | --------------------------- |
+| /perms setadmin \<Spieler Name>                                                | primeperms.user.permission  |
+| /perms create \<Gruppen Name> \<Anzeigename>                                   | primeperms.create           |
+| /perms list                                                                    | primeperms.list             |
+| /perms group \<Gruppen Name> info                                              | primeperms.group.info       |
+| /perms group \<Gruppen Name> permission add/remove                             | primeperms.group.permission |
+| /perms group \<Gruppen Name> setcolor \<Farbcode>                              | primeperms.group.setcolor   |
+| /perms group \<Gruppen Name> setdisplay \<Anzeigename>                         | primeperms.group.setdisplay |
+| /perms group \<Gruppen Name> setinherit \<Gruppen Name>                        | primeperms.group.setinherit |
+| /perms group \<Gruppen Name> setprefix \<Präfix>                               | primeperms.group.setprefix  |
+| /perms group \<Gruppen Name> setsuffix \<Suffix>                               | primeperms.group.setsuffix  |
+| /perms group \<Gruppen Name> setweight \<Gewicht>                              | primeperms.group.setweight  |
+| /perms user \<Spieler Name> info                                               | primeperms.user.info        |
+| /perms user \<Spieler Name> group add/remove \<Gruppenname> \<Stärke> \<Dauer> | primepermissions.user.group |
+| /perms user \<Spieler Name> permission add/remove \<Berechtigung>              | primeperms.user.permission  |

@@ -45,4 +45,3 @@ Nutze hierfür den Befehl `/perms`, um eine Übersicht aller Befehle zu erhalten
 
 Lies dir den Beitrag zu unserem Webinterface durch, um das Permissionsystem mit dem Webinterface zu verbinden.
 {% endhint %}
-

@@ -17,7 +17,6 @@ Chunkfactory bietet mir leider nicht die Möglichkeit per API Lizenzkeys abzufra
 
 
 {% hint style="info" %}
-Interessant!  
+Interessant!\
 Sollte mein Lizenzserver mal ausfallen, brauchst du dir **keine Sorgen** um deinen Server zu machen! Dein Key wird dann ohne Probleme akzeptiert
 {% endhint %}
-

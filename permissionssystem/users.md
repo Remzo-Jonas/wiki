@@ -10,7 +10,7 @@ description: Auf dieser Seite lernst du alles über die Einstellung von Nutzer B
 
 Das wohl wichtigste ist die Vergabe von Gruppen an Nutzer, wir werden in diesem Beispiel die Admin Gruppe an mich vergeben.
 
-```text
+```
 /perms user Eric_mit_C group add admin 100
 ```
 
@@ -24,9 +24,8 @@ Nach der Stärke kann auch optional noch eine Zeitangabe machen, um damit die Da
 
 Ihr könnt auch Nutzern unabhängig von ihren Gruppen gewisse Berechtigungen geben.
 
-```text
+```
 /perms user Eric_mit_C permission add *
 ```
 
 Damit kann man sich als Inhaber unabhängig von seinen Gruppen, alle Berechtigungen geben.
-

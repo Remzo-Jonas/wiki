@@ -6,45 +6,44 @@ description: Hier findest du alle Permissions im BungeeSystem
 
 ## Sanktion
 
-| Funktionen | Permission |  |
-| :--- | :--- | :--- |
-| /unban &lt;Spieler&gt; &lt;Grund...&gt; | bungee.unban |  |
-| /unmute &lt;Spieler&gt; &lt;Grund...&gt; | bungee.unmute |  |
-| /mute &lt;Spieler&gt; &lt;Identifier&gt; | bungee.mute |  |
-| /banreason &lt;list&gt; | bungee.banreasons.list |  |
-| /banreasons &lt;remove&gt; &lt;Ban/Mute&gt; &lt;Identifier&gt; | bungee.banreasons.remove |  |
-| /banreasons add &lt;Ban/Mute&gt; &lt;Identifier&gt; &lt;Permission&gt; &lt;Reason&gt; | bungee.banreasons.add |  |
-| /kick &lt;Spieler&gt; &lt;Grund...&gt; | bungee.kick |  |
-| /history &lt;Spieler&gt; | bungee.history |  |
-| /check &lt;Spieler&gt; | bungee.check |  |
-| /warn &lt;Spieler&gt; | &lt;Grund...&gt; | bungee.warn |
+| Funktionen                                                        | Permission               |             |
+| ----------------------------------------------------------------- | ------------------------ | ----------- |
+| /unban \<Spieler> \<Grund...>                                     | bungee.unban             |             |
+| /unmute \<Spieler> \<Grund...>                                    | bungee.unmute            |             |
+| /mute \<Spieler> \<Identifier>                                    | bungee.mute              |             |
+| /banreason \<list>                                                | bungee.banreasons.list   |             |
+| /banreasons \<remove> \<Ban/Mute> \<Identifier>                   | bungee.banreasons.remove |             |
+| /banreasons add \<Ban/Mute> \<Identifier> \<Permission> \<Reason> | bungee.banreasons.add    |             |
+| /kick \<Spieler> \<Grund...>                                      | bungee.kick              |             |
+| /history \<Spieler>                                               | bungee.history           |             |
+| /check \<Spieler>                                                 | bungee.check             |             |
+| /warn \<Spieler>                                                  | \<Grund...>              | bungee.warn |
 
 ## Spieler
 
-| Funktione | Permission |
-| :--- | :--- |
-| /joinme | bungee.joinme |
+| Funktione | Permission    |
+| --------- | ------------- |
+| /joinme   | bungee.joinme |
 
 ## Team
 
-| Funktione | Permission |
-| :--- | :--- |
-| /whereis &lt;Spieler&gt; | bungee.whereis |
-| /wartung &lt;an/aus&gt; | bungee.wartung |
-| /tssupport &lt;open/close&gt; | bungee.tssupport |
-| /team | bungee.team |
-| /teamchat &lt;Nachricht&gt; | bungee.tc |
-| /slots &lt;Slots&gt; | bungee.slolts |
-| /reports | bungee.reports |
-| /notify &lt;login/logout&gt; | bungee.notify |
-| /motd &lt;wartung/normal&gt; &lt;motd&gt; | bungee.motd |
-| /jumpto &lt;Spieler&gt; | bungee.jumpto |
-| /jointo &lt;Spieler&gt; | bungee.jointo |
-| /getip &lt;Spieler&gt; | bungee.getip |
-| /end &lt;now/abort/zeit&gt; | bungee.end |
-| /clearchat &lt;local/global&gt; | bungee.clearchat |
-| /brodcast &lt;Nachricht...&gt; | bungee.brodcast |
-| /bauserver | bungee.bauserver |
-| /adminchat &lt;Nachricht...&gt; | bungee.atc |
-| Wartungen ignorieren | bungee.wartung.ignore |
-
+| Funktione                       | Permission            |
+| ------------------------------- | --------------------- |
+| /whereis \<Spieler>             | bungee.whereis        |
+| /wartung \<an/aus>              | bungee.wartung        |
+| /tssupport \<open/close>        | bungee.tssupport      |
+| /team                           | bungee.team           |
+| /teamchat \<Nachricht>          | bungee.tc             |
+| /slots \<Slots>                 | bungee.slolts         |
+| /reports                        | bungee.reports        |
+| /notify \<login/logout>         | bungee.notify         |
+| /motd \<wartung/normal> \<motd> | bungee.motd           |
+| /jumpto \<Spieler>              | bungee.jumpto         |
+| /jointo \<Spieler>              | bungee.jointo         |
+| /getip \<Spieler>               | bungee.getip          |
+| /end \<now/abort/zeit>          | bungee.end            |
+| /clearchat \<local/global>      | bungee.clearchat      |
+| /brodcast \<Nachricht...>       | bungee.brodcast       |
+| /bauserver                      | bungee.bauserver      |
+| /adminchat \<Nachricht...>      | bungee.atc            |
+| Wartungen ignorieren            | bungee.wartung.ignore |

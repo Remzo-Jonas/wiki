@@ -8,4 +8,3 @@ Die CoreAPI ist ein Plugin, welche grundlegende Funktionen für alle Plugins bie
 * Chat-Format
 * Präfixe
 * Coins
-

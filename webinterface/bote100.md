@@ -25,5 +25,3 @@ Zu bote's SkyWars: [https://www.yourmcshop.com/product/bedwars/](https://www.you
 
 {% embed url="https://discord.com/invite/jFqzux2" %}
 
-
-
