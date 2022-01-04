@@ -11,7 +11,7 @@
 
 * [Warum eine API?](core-api/warum-eine-api.md)
 * [Loslegen](core-api/loslegen.md)
-* [Placeholder \(Core\)](core-api/placeholder-core.md)
+* [Placeholder (Core)](core-api/placeholder-core.md)
 
 ## Webinterface
 
@@ -31,10 +31,13 @@
 * [Gruppen einstellen](permissionssystem/groups.md)
 * [Spieler einstellen](permissionssystem/users.md)
 * [Permissions](permissionssystem/permissions.md)
-* [Placeholder \(Permissions\)](permissionssystem/placeholder-permissions.md)
+* [Placeholder (Permissions)](permissionssystem/placeholder-permissions.md)
 
-## Anderes <a id="other"></a>
+## Anderes <a href="#other" id="other"></a>
 
 * [Support](other/support.md)
 * [Discord Server](https://discord.primeapi.de)
 
+## NickSystem
+
+* [Getting started](nicksystem/getting-started.md)
