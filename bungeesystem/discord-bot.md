@@ -59,8 +59,8 @@ In deinen Einstellungen kannst du unter Erweitert den Entwickler-Modus aktiviere
 
 Unter connection findest du verschiedene Einstellmölichkeiten. \
 **key** -  Hier gibst du den Key den du dir vorher kopiert hast an\
-**status** - Hier gibst du den OnlineStatus des Bots an. (grüner, gelber oder roter Kreis) (Liste aller möglichen Status: [_JDA Wiki_](https://ci.dv8tion.net/job/JDA/javadoc/net/dv8tion/jda/api/OnlineStatus.html)_ _)\
-**activity.type** - Hier gibst du die Art der Acitify an. (Spielt..., Guckt.., etc...) (Liste aller möglichen Typs: [_JDA Wiki_](https://ci.dv8tion.net/job/JDA/javadoc/net/dv8tion/jda/api/entities/Activity.ActivityType.html) )\
+**status** - Hier gibst du den OnlineStatus des Bots an. (grüner, gelber oder roter Kreis) (Liste aller möglichen Status: [_JDA Wiki_](https://ci.dv8tion.net/job/JDA/javadoc/net/dv8tion/jda/api/OnlineStatus.html) __ )\
+**activity.type** - Hier gibst du die Art der Acitify an. (Spielt..., Guckt.., etc...) (Liste aller möglichen Typs: [_JDA Wiki_](https://ci.dv8tion.net/job/JDA5/javadoc/net/dv8tion/jda/api/entities/Activity.ActivityType.html) )\
 **activity.value** - Die aktivität die angezeigt wird nach dem Typ. Bspw. \[Spiel] verifizieren\
 **guild** - Guild steht hier für deinen Discord-Server. Hier musst du die ID deiner Guilde angeben. Diese erhälst du indem du Rechtsklick auf dein Server-Icon machst, und dort die ID kopierst
 
@@ -81,7 +81,7 @@ _**groups**_ - Hier kannst du Einstellen, ob und welche Gruppen beim verifiziere
 
 **roles** -  Vergibt Rollen je nach einer Permission die ein spieler haben muss.\
 **apply** - de/aktiviert diese Funktion\
-**id** - Eine Liste von permissions und der dazugehörigen Rollen-ID (siehe oben). Format: `permssion:Rollen-ID`. 
+**id** - Eine Liste von permissions und der dazugehörigen Rollen-ID (siehe oben). Format: `permssion:Rollen-ID`.&#x20;
 
 ### Notify & Report
 
