@@ -8,16 +8,17 @@ Die API welche hier dokumentiert wird, wurde noch nicht veröffentlicht!
 
 # Wie nutzte ich die API?
 
+{% hint style="info" %}
+Es können jederzeit Änderungen an der API vorgenommen werden!
+{% endhint %}
+
+
 * [ClanAPI](clanapi.md)
 * [CoinsAPI](coinsapi.md)
 * [FriendAPI](friendapi.md)
 * [NickAPI](nickapi.md)
 * [PermsAPI](partyapi.md)
 * [PartyAPI](permsapi.md)
-
-{% hint style="info" %}
-Es können jederzeit Änderungen an der API vorgenommen werden!
-{% endhint %}
 
 ## Import (Maven)
 
