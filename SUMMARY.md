@@ -25,6 +25,10 @@
 * [Teamspeak-Bot](bungeesystem/teamspeak-bot.md)
 * [Permissions](bungeesystem/permissions.md)
 
+## NickSystem
+
+* [Getting started](nicksystem/getting-started.md)
+
 ## PermissionsSystem
 
 * [Loslegen](permissionssystem/loslegen.md)
@@ -33,11 +37,11 @@
 * [Permissions](permissionssystem/permissions.md)
 * [Placeholder (Permissions)](permissionssystem/placeholder-permissions.md)
 
+##API
+* [API](api/api.md)
+
 ## Anderes <a href="#other" id="other"></a>
 
 * [Support](other/support.md)
 * [Discord Server](https://discord.primeapi.de)
 
-## NickSystem
-
-* [Getting started](nicksystem/getting-started.md)
