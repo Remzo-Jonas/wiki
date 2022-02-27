@@ -12,6 +12,7 @@ Die API welche hier dokumentiert wird, wurde noch nicht veröffentlicht!
 Es können jederzeit Änderungen an der API vorgenommen werden!
 {% endhint %}
 
+## Spigot
 
 * [ClanAPI](clanapi.md)
 * [CoinsAPI](coinsapi.md)
