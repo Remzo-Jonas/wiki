@@ -37,7 +37,7 @@
 * [Permissions](permissionssystem/permissions.md)
 * [Placeholder (Permissions)](permissionssystem/placeholder-permissions.md)
 
-##API
+## API
 * [API](api/api.md)
 
 ## Anderes <a href="#other" id="other"></a>
