@@ -18,7 +18,7 @@ Es können jederzeit Änderungen an der API vorgenommen werden!
 * [CoinsAPI](coinsapi.md)
 * [FriendAPI](friendapi.md)
 * [NickAPI](nickapi.md)
-* [PermsAPI](partyapi.md)
+* [PermsAPI](https://github.com/PrimePlugin/PrimePlugins-Examples/tree/main/src/main/java/de/primeapi/primeplugins/example/spigot/permsapi)
 * [PartyAPI](permsapi.md)
 
 ## Import (Maven)
