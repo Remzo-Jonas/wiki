@@ -12,7 +12,7 @@ Die API welche hier dokumentiert wird, wurde noch nicht veröffentlicht!
 Es können jederzeit Änderungen an der API vorgenommen werden!
 {% endhint %}
 
-# Import (Maven)
+## Import (Maven)
 
 ```xml
     <repositories>
