@@ -15,7 +15,7 @@ Es können jederzeit Änderungen an der API vorgenommen werden!
 ## Spigot
 
 * [ClanAPI](https://github.com/PrimePlugin/PrimePlugins-Examples/tree/main/src/main/java/de/primeapi/primeplugins/example/spigot/clanapi)
-* [CoinsAPI](coinsapi.md)
+* [CoinsAPI](https://github.com/PrimePlugin/PrimePlugins-Examples/tree/main/src/main/java/de/primeapi/primeplugins/example/spigot/coinsapi)
 * [FriendAPI](friendapi.md)
 * [NickAPI](nickapi.md)
 * [PermsAPI](https://github.com/PrimePlugin/PrimePlugins-Examples/tree/main/src/main/java/de/primeapi/primeplugins/example/spigot/permsapi)
