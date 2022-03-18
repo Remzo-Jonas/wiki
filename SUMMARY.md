@@ -36,12 +36,13 @@
 * [Spieler einstellen](permissionssystem/users.md)
 * [Permissions](permissionssystem/permissions.md)
 * [Placeholder (Permissions)](permissionssystem/placeholder-permissions.md)
+* [Java Installation (Debian 10/11)](permissionssystem/java-installation-debian-10-11.md)
 
 ## API
+
 * [API](api/api.md)
 
 ## Anderes <a href="#other" id="other"></a>
 
 * [Support](other/support.md)
 * [Discord Server](https://discord.primeapi.de)
-
