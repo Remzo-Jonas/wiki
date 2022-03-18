@@ -34,7 +34,7 @@ description: Hier findest du alle Permissions im BungeeSystem
 | /tssupport \<open/close>        | bungee.tssupport      |
 | /team                           | bungee.team           |
 | /teamchat \<Nachricht>          | bungee.tc             |
-| /slots \<Slots>                 | bungee.slots          |
+| /slots \<Slots>                 | bungee.slolts         |
 | /reports                        | bungee.reports        |
 | /notify \<login/logout>         | bungee.notify         |
 | /motd \<wartung/normal> \<motd> | bungee.motd           |

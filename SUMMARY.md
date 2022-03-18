@@ -35,6 +35,7 @@
 * [Gruppen einstellen](permissionssystem/groups.md)
 * [Spieler einstellen](permissionssystem/users.md)
 * [Permissions](permissionssystem/permissions.md)
+* [FAQ](permissionssystem/faq.md)
 * [Placeholder (Permissions)](permissionssystem/placeholder-permissions.md)
 * [Java Installation (Debian 10/11)](permissionssystem/java-installation-debian-10-11.md)
 

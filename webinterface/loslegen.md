@@ -6,7 +6,7 @@ description: Hier lernst du, wie du das Webinterface einrichtest
 
 ## Voraussetzungen
 
-* Core-API auf BungeeCord ebene installiert ([_wiki_](../core-api/loslegen.md) __ )
+* Core-API auf BungeeCord ebene installiert ([_wiki_](../core-api/loslegen.md)_ _)
 * Einen Webserver
 
 ## Schritt 1: Dateien kopieren
@@ -19,7 +19,7 @@ In dem Ordner `config` findest du die `config.php`. Dort musst du einige Einstel
 
 ### MySQL-Daten
 
-Als erstes musst du deine MySQL-Daten angeben. Achte darauf, dass du hier die selben wie in Minecraft angibst.&#x20;
+Als erstes musst du deine MySQL-Daten angeben. Achte darauf, dass du hier die selben wie in Minecraft angibst. 
 
 {% hint style="warning" %}
 Wichtig!\

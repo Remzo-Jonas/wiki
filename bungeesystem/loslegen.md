@@ -12,7 +12,7 @@ Erklärvideo
 
 ## Vorbereitung
 
-Damit du das Plugin benutzen kannst, musst du die BungeeAPI installiet haben! Wie du das machst erfährst du [_hier_](../core-api/loslegen.md) __ !
+Damit du das Plugin benutzen kannst, musst du die BungeeAPI installiet haben! Wie du das machst erfährst du [_hier_](../core-api/loslegen.md)_ _!
 
 ## Lizenz angeben
 
